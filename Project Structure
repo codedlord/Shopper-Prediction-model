@@ -1,0 +1,16 @@
+online-shopper-prediction/
+│
+├── data/
+│   └── online_shoppers_intention.csv
+│
+├── notebook/
+│   └── analysis.ipynb
+│
+├── app/
+│   └── app.py
+│
+├── report/
+│   └── online_shopper_report.docx
+│
+├── README.md
+└── requirements.txt
